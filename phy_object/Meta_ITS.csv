@@ -1,0 +1,140 @@
+Sample ID,Year ,Seed.Lot,Seed.Lot.Year,Variety,Seed Grower,Town,State,Latitude,Longitude
+Soil_SL_65_2018,2018,65,SL-65-2018,Burbank,Grower 1,Dillion,MT,45.216523,-112.63885
+Soil_SL_59_2018,2018,59,SL-59-2018,Shepody,Grower 10,Boardman ,OR,45.840243,-119.701181
+Tare_Soil_SL50_its_2019,2019,128,SL-50-2019,Shepody,Grower 10,Boardman,OR,45.840243,-119.701181
+Tare_Soil_SL21_its_2019,2019,99,SL-21-2019,Clearwater,Grower 11,Lynden,WA,48.943834,-122.456706
+Soil_SL_16_2018,2018,16,SL-16-2018,Umatilla,Grower 11,Lynden,WA,48.943834,-122.456706
+Soil_SL_22_2018,2018,22,SL-22-2018,Ivory Russet,Grower 12,Bently,AB Canada,52.465073,-114.050589
+Tare_Soil_SL33_its_2019,2019,111,SL-33-2019,Lamoka,Grower 12,Bently,AB Canada,52.465073,-114.050589
+Soil_SL_4_2018,2018,4,SL-4-2018,Norkotah,Grower 12,Bently,AB Canada,52.465073,-114.050589
+Tare_Soil_SL40_its_2019,2019,118,SL-40-2019,Snowden,Grower 12,Bently,AB Canada,52.465073,-114.050589
+Soil_SL_60_2018,2018,60,SL-60-2018,Burbank,Grower 13,Ririe,ID,,
+Tare_Soil_SL58_its_2019,2019,136,SL-58-2019,Burbank,Grower 13,Ririe,ID,,
+Soil_SL_6_2018,2018,6,SL-6-2018,Ranger,Grower 14,Tosten,MT,46.172137,-111.440888
+Tare_Soil_SL37_its_2019,2019,115,SL-37-2019,Alturas,Grower 15,Grace,ID,42.576167,-111.730357
+Tare_Soil_SL8_its_2019,2019,86,SL-8-2019,Shepody,Grower 15,Grace,ID,42.576167,-111.730357
+Soil_SL_32_2018,2018,32,SL-32-2018,Alturas,Grower 16,La Grande,OR,45.324737,-118.087975
+Tare_Soil_SL12_its_2019,2019,90,SL-12-2019,Alturas,Grower 16,La Grande,OR,45.324737,-118.087975
+Soil_SL_24_2018,2018,24,SL-24-2018,Atlantic,Grower 16,La Grande,OR,45.324737,-118.087975
+Tare_Soil_SL35_its_2019,2019,113,SL-35-2019,Atlantic,Grower 16,La Grande,OR,45.324737,-118.087975
+Soil_SL_29_2018,2018,29,SL-29-2018,Clearwater,Grower 16,La Grande,OR,45.324737,-118.087975
+Soil_SL_31_2018,2018,31,SL-31-2018,Clearwater,Grower 16,La Grande,OR,45.324737,-118.087975
+Tare_Soil_SL13_its_2019,2019,91,SL-13-2019,Clearwater,Grower 16,La Grande,OR,45.324737,-118.087975
+Tare_Soil_SL14_its_2019,2019,92,SL-14-2019,Clearwater,Grower 16,La Grande,OR,45.324737,-118.087975
+Tare_Soil_SL15_its_2019,2019,93,SL-15-2019,Clearwater,Grower 16,La Grande,OR,45.324737,-118.087975
+Soil_SL_27_2018,2018,27,SL-27-2018,Ranger,Grower 16,La Grande,OR,45.324737,-118.087975
+Tare_Soil_SL11_its_2019,2019,89,SL-11-2019,Ranger,Grower 16,La Grande,OR,45.324737,-118.087975
+Soil_SL_30_2018,2018,30,SL-30-2018,Shepody,Grower 16,La Grande,OR,45.324737,-118.087975
+Tare_Soil_SL9_its_2019,2019,87,SL-9-2019,Shepody,Grower 16,La Grande,OR,45.324737,-118.087975
+Tare_Soil_SL10_its_2019,2019,88,SL-10-2019,Shepody,Grower 16,La Grande,OR,45.324737,-118.087975
+Tare_Soil_SL16_its_2019,2019,94,SL-16-2019,Umatilla,Grower 16,La Grande,OR,45.324737,-118.087975
+Tare_Soil_SL28_its_2019,2019,106,SL-28-2019,Umatilla,Grower 16,La Grande,OR,45.324737,-118.087975
+Soil_SL_23_2018,2018,23,SL-23-2018,Umatilla,Grower 16,La Grande,OR,45.324737,-118.087975
+Soil_SL_26_2018,2018,26,SL-26-2018,Umatilla,Grower 16,La Grande,OR,45.324737,-118.087975
+Tare_Soil_SL27_its_2019,2019,105,SL-27-2019,Umatilla,Grower 16,La Grande,OR,45.324737,-118.087975
+Soil_SL_2_2018,2018,2,SL-2-2018,Atlantic,Grower 17,Edmonton,AB Canada,53.548632,-113.490576
+Tare_Soil_SL2_its_2019,2019,80,SL-2-2019,Atlantic,Grower 17,Edmonton,AB Canada,53.548632,-113.490576
+Tare_Soil_SL22_its_2019,2019,100,SL-22-2019,Clearwater,Grower 17,Edmonton,AB Canada,53.548632,-113.490576
+Soil_SL_9_2018,2018,9,SL-9-2018,Ranger,Grower 17,Edmonton,AB Canada,53.548632,-113.490576
+Tare_Soil_SL26_its_2019,2019,104,SL-26-2019,Russet,Grower 17,Edmonton,AB Canada,53.548632,-113.490576
+Soil_SL_57_2018,2018,57,SL-57-2018,Burbank,Grower 18,Grace,ID,42.576167,-111.730357
+Tare_Soil_SL55_its_2019,2019,133,SL-55-2019,Burbank,Grower 18,Grace,ID,42.576167,-111.730357
+Soil_SL_7_2018,2018,7,SL-7-2018,Shepody,Grower 19,Walhalla,ND,48.923119,-97.918454
+Soil_SL_64_2018,2018,64,SL-64-2018,Burbank,Grower 2,Felt,ID,43.873897,-111.184582
+Tare_Soil_SL71_its_2019,2019,149,SL-71-2019,Burbank,Grower 2,Felt,ID,43.873897,-111.184582
+Soil_SL_18_2018,2018,18,SL-18-2018,Norkotah,Grower 2,Felt,ID,43.873897,-111.184582
+Soil_SL_33_2018,2018,33,SL-33-2018,Norkotah,Grower 2,Felt,ID,43.873897,-111.184582
+Tare_Soil_SL43_its_2019,2019,121,SL-43-2019,Norkotah,Grower 2,Felt,ID,43.873897,-111.184582
+Tare_Soil_SL44_its_2019,2019,122,SL-44-2019,Norkotah,Grower 2,Felt,ID,43.873897,-111.184582
+Tare_Soil_SL63_its_2019,2019,141,SL-63-2019,Dark Red Norland,Grower 20,Cando,ND,48.488299,-99.20419
+Tare_Soil_SL59_its_2019,2019,137,SL-59-2019,Mallou,Grower 21,Lewiston,UT,,
+Tare_Soil_SL7_its_2019,2019,85,SL-7-2019,Ranger,Grower 22,Ronan,MT,47.529634,-114.101296
+Tare_Soil_SL74_its_2019,2019,152,SL-74-2019,Burbank,Grower 23,Grace,ID,42.576167,-111.730357
+Soil_SL_39_2018,2018,39,SL-39-2018,Burbank,Grower 24,Ashton,ID,44.071565,-111.448489
+Tare_Soil_SL72_its_2019,2019,150,SL-72-2019,Burbank,Grower 24,Ashton,ID,44.071565,-111.448489
+Soil_SL_73_2018,2018,73,SL-73-2018,Burbank,Grower 25,,,,
+Soil_SL_75_2018,2018,75,SL-75-2018,Shepody,Grower 25,,,,
+Soil_SL_11_2018,2018,11,SL-11-2018,Norkotah,Grower 26,Edmonton,AB Canada,53.548632,-113.490576
+Soil_SL_15_2018,2018,15,SL-15-2018,Norkotah,Grower 26,Edmonton,AB Canada,53.548632,-113.490576
+Tare_Soil_SL18_its_2019,2019,96,SL-18-2019,Norkotah,Grower 26,Edmonton,AB Canada,53.548632,-113.490576
+Tare_Soil_SL19_its_2019,2019,97,SL-19-2019,Norkotah,Grower 26,Edmonton,AB Canada,53.548632,-113.490576
+Tare_Soil_SL20_its_2019,2019,98,SL-20-2019,Norkotah,Grower 26,Edmonton,AB Canada,53.548632,-113.490576
+Soil_SL_17_2018,2018,17,SL-17-2018,Chipper FL-1867,Grower 27,Bancroft,ID,42.664422,-111.794411
+Soil_SL_10_2018,2018,10,SL-10-2018,Norkotah,Grower 28,La Grande,OR,45.324737,-118.087975
+Tare_Soil_SL23_its_2019,2019,101,SL-23-2019,Russet,Grower 28,La Grande,OR,45.324737,-118.087975
+Soil_SL_1_2018,2018,1,SL-1-2018,Shepody,Grower 28,La Grande,OR,45.324737,-118.087975
+Tare_Soil_SL1_its_2019,2019,79,SL-1-2019,Shepody,Grower 28,La Grande,OR,45.324737,-118.087975
+Tare_Soil_SL56_its_2019,2019,134,SL-56-2019,Shepody,Grower 28,La Grande,OR,45.324737,-118.087975
+Tare_Soil_SL31_its_2019,2019,109,SL-31-2019,Burbank,Grower 29,Manhattan,MT,45.857894,-111.331204
+Tare_Soil_SL3_its_2019,2019,81,SL-3-2019,Dark Red Norland,Grower 3,American Falls,ID,,
+Tare_Soil_SL4_its_2019,2019,82,SL-4-2019,Umatilla,Grower 3,American Falls,ID,,
+Tare_Soil_SL39_its_2019,2019,117,SL-39-2019,Snowden,Grower 30,Deerbrook,WI,45.234028,-89.155841
+Soil_SL_21_2018,2018,21,SL-21-2018,Burbank,Grower 31,Reardan,WA,47.669583,-117.877797
+Soil_SL_5_2018,2018,5,SL-5-2018,Norkotah,Grower 31,Reardan,WA,47.669583,-117.877797
+Soil_SL_20_2018,2018,20,SL-20-2018,Norkotah,Grower 31,Reardan,WA,47.669583,-117.877797
+Tare_Soil_SL36_its_2019,2019,114,SL-36-2019,Norkotah,Grower 31,Reardon,WA,47.669583,-117.877797
+Tare_Soil_SL42_its_2019,2019,120,SL-42-2019,Norkotah,Grower 31,Reardon,WA,47.669583,-117.877797
+Soil_SL_12_2018,2018,12,SL-12-2018,Norkotah,Grower 31,Reardan,WA,47.669583,-117.877797
+Soil_SL_3_2018,2018,3,SL-3-2018,Ranger,Grower 31,Reardan,WA,47.669583,-117.877797
+Tare_Soil_SL24_its_2019,2019,102,SL-24-2019,Russet,Grower 31,Reardon,WA,47.669583,-117.877797
+Tare_Soil_SL41_its_2019,2019,119,SL-41-2019,Snowden,Grower 31,Reardon,WA,47.669583,-117.877797
+Soil_SL_52_2018,2018,52,SL-52-2018,Burbank,Grower 32,St Antony,ID,43.966054,-111.682295
+Soil_SL_19_2018,2018,19,SL-19-2018,Norkotah,Grower 32,St Antony,ID,43.966054,-111.682295
+Tare_Soil_SL73_its_2019,2019,151,SL-73-2019,Burbank,Grower 33,,ID,,
+Tare_Soil_SL5_its_2019,2019,83,SL-5-2019,Norkotah,Grower 34,Malin,OR,42.012733,-121.40859
+Tare_Soil_SL65_its_2019,2019,143,SL-65-2019,Agata,Grower 35,Idaho Falls,ID,,
+Soil_SL_55_2018,2018,55,SL-55-2018,Burbank,Grower 36,Paul ,ID,42.607976,-113.783434
+Tare_Soil_SL53_its_2019,2019,131,SL-53-2019,Burbank,Grower 36,Paul ,ID,42.607976,-113.783434
+Tare_Soil_SL6_its_2019,2019,84,SL-6-2019,Waneta,Grower 37,Walhalla,ND,48.923119,-97.918454
+Soil_SL_78_2018,2018,78,SL -78-2018,Norkotah,Grower 38,Alliance,NE ,,
+Tare_Soil_SL68_its_2019,2019,146,SL-68-2019,Burbank,Grower 39,Manhattan,MT,45.857894,-111.331204
+Soil_SL_14_2018,2018,14,SL-14-2018,Alturas,Grower 4,Spruce Grove,AB Canada,53.542414,-113.909689
+Tare_Soil_SL38_its_2019,2019,116,SL-38-2019,Alturas,Grower 4,Spruce Grove,AB Canada,53.542414,-113.909689
+Soil_SL_38_2018,2018,38,SL-38-2018,Alturas,Grower 40,Atkinson ,NE,42.530991,-98.97767
+Tare_Soil_SL46_its_2019,2019,124,SL-46-2019,Alturas,Grower 40,Atkinson ,NE,42.530991,-98.97767
+Soil_SL_53_2018,2018,53,SL-53-2018,Clearwater,Grower 40,Atkinson ,NE,42.530991,-98.97767
+Tare_Soil_SL47_its_2019,2019,125,SL-47-2019,Clearwater,Grower 40,Atkinson ,NE,42.530991,-98.97767
+Tare_Soil_SL48_its_2019,2019,126,SL-48-2019,Ranger,Grower 40,Atkinson ,NE,42.530991,-98.97767
+Tare_Soil_SL49_its_2019,2019,127,SL-49-2019,Umatilla,Grower 40,Atkinson ,NE,42.530991,-98.97767
+Soil_SL_37_2018,2018,37,SL-37-2018,Umatilla,Grower 40,Atkinson ,NE,42.530991,-98.97767
+Soil_SL_8_2018,2018,8,SL-8-2018,Ranger,Grower 5,Ronan,MT,,
+Soil_SL_51_2018,2018,51,SL-51-2018,Burbank,Grower 6,Malin,OR,42.012733,-121.40859
+Soil_SL_58_2018,2018,58,SL-58-2018,Burbank,Grower 6,Malin,OR,42.012733,-121.40859
+Soil_SL_62_2018,2018,62,SL-62-2018,Burbank,Grower 6,Malin,OR,42.012733,-121.40859
+Tare_Soil_SL52_its_2019,2019,130,SL-52-2019,Burbank,Grower 6,Malin,OR,42.012733,-121.40859
+Tare_Soil_SL67_its_2019,2019,145,SL-67-2019,Burbank,Grower 6,Malin,OR,42.012733,-121.40859
+Tare_Soil_SL69_its_2019,2019,147,SL-69-2019,Burbank,Grower 6,Malin,OR,42.012733,-121.40859
+Tare_Soil_SL75_its_2019,2019,153,SL-75-2019,Burbank,Grower 6,Malin,OR,42.012733,-121.40859
+Soil_SL_40_2018,2018,40,SL-40-2018,Burbank,Grower 7,Ashton,ID,44.071565,-111.448489
+Soil_SL_61_2018,2018,61,SL-61-2018,Burbank,Grower 7,Ashton,ID,44.071565,-111.448489
+Tare_Soil_SL51_its_2019,2019,129,SL-51-2019,Burbank,Grower 7,Ashton,ID,44.071565,-111.448489
+Tare_Soil_SL54_its_2019,2019,132,SL-54-2019,Burbank,Grower 7,Ashton,ID,44.071565,-111.448489
+Tare_Soil_SL57_its_2019,2019,135,SL-57-2019,Burbank,Grower 7,Ashton,ID,44.071565,-111.448489
+Tare_Soil_SL70_its_2019,2019,148,SL-70-2019,Burbank,Grower 7,Ashton,ID,44.071565,-111.448489
+Soil_SL_13_2018,2018,13,SL-13-2018,Norkotah,Grower 8,Manhattan,MT,45.857894,-111.331204
+Tare_Soil_SL17_its_2019,2019,95,SL-17-2019,Norkotah,Grower 8,Manhatton,MT,45.857894,-111.331204
+Soil_SL_67_2018,2018,67,SL-67-2018,Ranger,Grower 9,Dillion ,MT,45.216523,-112.63885
+Soil_SL_72_2018,2018,72,SL-72-2018,All Blue,,,,,
+Tare_Soil_SL30_its_2019,2019,108,SL-30-2019,All Blue,,,,,
+Soil_SL_71_2018,2018,71,SL-71-2018,Burbank,,,MT,,
+Tare_Soil_SL62_its_2019,2019,140,SL-62-2019,Cerata,,,,,
+Soil_SL_25_2018,2018,25,SL-25-2018,Dakota,,,,,
+Tare_Soil_SL29_its_2019,2019,107,SL-29-2019,Dakota,,,,,
+Tare_Soil_SL60_its_2019,2019,138,SL-60-2019,Erika,,,,,
+Tare_Soil_SL61_its_2019,2019,139,SL-61-2019,Fioretta,,,,,
+Tare_Soil_SL34_its_2019,2019,112,SL-34-2019,Ivory Russet,,Parkland,WA,47.151792,-122.440413
+Tare_Soil_SL64_its_2019,2019,142,SL-64-2019,Jazzy,,,,,
+Soil_SL_28_2018,2018,28,SL-28-2018,Lamoka,,,,,
+Tare_Soil_SL32_its_2019,2019,110,SL-32-2019,Lamoka,,Winnemucca,NV,40.968854,-117.729563
+Tare_Soil_SL25_its_2019,2019,103,SL-25-2019,Russet,,Manhatton,MT,45.857894,-111.331204
+Tare_Soil_SL45_its_2019,2019,123,SL-45-2019,,,,,,
+Tare_Soil_SL66_its_2019,2019,144,SL-66-2019,,,,,,
+Soil_SL_Blank_2018,2018,Blank,,,,,,,
+Soil_SL_PCR_Neg_1_2018,2018,Blank,,,,,,,
+Soil_SL_PCR_Neg_2_2018,2018,Blank,,,,,,,
+Plate_Blank_2018,2018,Blank,,,,,,,
+Tare_Soil_Blank_its_2019,2019,Blank,,,,,,,
+Sager_Soil_1-12in_its_2019,2019,Blank,,,,,,,
+Sager_Soil_13-24in_its_2019,2019,Blank,,,,,,,
+Tare_Soil_PCR_Neg_its_2019,2019,Blank,,,,,,,
+Plate_Blank_2019,2019,Blank,,,,,,,
