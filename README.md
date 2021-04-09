@@ -4,7 +4,8 @@
 
 This manuscript is in review
 
-This repository contains R code for data analysis. Processing of raw data was performed in Quiime2. 
+This repository contains R code for data analysis. Processing of raw data was performed in Quiime2.
+Using the R project will set your working directory in Rstudio. Code_Analysis folder contains R code for the analyses and the phy_object folder hols the phyloseq objects (which contain OTU matrices, taxonomy tables, and meta files) that are called on in the code.
 
 ## Data
 Raw sequence data can be located in the NCBI Sequence Read Archive under the accession number PRJNA716820
