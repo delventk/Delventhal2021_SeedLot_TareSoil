@@ -10,12 +10,11 @@ library(microbiome)
 ############################################################
 ###FUNGI 
 
-
 #start with raw phyloseq object. do minimal filtering to retain original read counts
 phyITS <- readRDS("./phy_object/phy_fun_prefilter.rds")
 phyITS %<>% subset_samples(., Seed.Lot != "Blank")
-#made changes to meta file, needs to be replaced
-newmetafun <- read.csv("C:/Users/delventk/Box/Research/Projects/Seedlot_Observational/2019 Combined/Meta/Meta_TareSoil_ITS.csv", row.names = 1)
+#meta file needs to be replaced
+newmetafun <- read.csv("./Meta/Meta_ITS.csv", row.names = 1)
 sample_data(phyITS) <- sample_data(newmetafun)
 
 
@@ -41,21 +40,18 @@ df$tax <- tax$Phylum
 #top most abundant OTUs
 rm(list = ls())
 
-phyITS<- readRDS("./phy_object/phy_fun_nofilt.rds")
-meta <- meta(phyITS)
+#Read in object
+phyITS<- readRDS("./phy_object/phy_fun.rds")
+tax <- tax_table(phyITS) %>% data.frame # use tax table to assign taxonomy to top OTUs
 
-topNOTUs.ITS <- names(sort(taxa_sums(phyITS),TRUE)[1:10])
-phy10.ITS <- prune_taxa(topNOTUs.ITS, phyITS)
-tax10.ITS <- tax_table(phy10.ITS) %>% data.frame
-
-#write.csv(tax10.ITS, "./output/top10_ITS.csv")
+topNOTUs.ITS <- names(sort(taxa_sums(phyITS),TRUE)) %>% data.frame
 
 ############################################################
 ###BACTERIA
 
 phybac <- readRDS("./phy_object/phy_TSbac_prefilter.rds")
 phybac %<>% subset_samples(., Seed.Lot != "Blank")
-newmetabac <- read.csv("C:/Users/delventk/Box/Research/Projects/Seedlot_Observational/2019 Combined/Meta/Meta_TareSoil_16S.csv", row.names = 1) #made changes to meta file, needs to be replaced
+newmetabac <- read.csv("./Meta/Meta_16S.csv", row.names = 1) #made changes to meta file, needs to be replaced
 sample_data(phybac) <- sample_data(newmetabac)
 
 phylum16 <- phybac %>% tax_glom("Phylum") #This collapses everything to the Phylum level
@@ -76,13 +72,15 @@ df16$tax <- tax16$Phylum
 #saveRDS(df16, "./output/Rds/16S_Phylum.rds")
 
 ###############
-#top most abundant OTUs
+###BACTERIA
 rm(list = ls())
 
-phy16s<- readRDS("./phy_object/phy_bac_nofilt.rds")
+phybac<- readRDS("./phy_object/phy_bac.rds")
+otu <- otu_table(phybac) %>% data.frame
+tax <- tax_table(phybac) %>% data.frame # use tax table to assign taxonomy to top OTUs
+topNOTUs.bac <- names(sort(taxa_sums(phybac),TRUE)) %>% data.frame
 
-topNOTUs.16s <- names(sort(taxa_sums(phy16s),TRUE)[1:10])
-phy10.16s <- prune_taxa(topNOTUs.16s, phy16s)
-tax10.16s <- tax_table(phy10.16s) %>% data.frame
-
-#write.csv(tax10.16s, "./output/top10_16s.csv")
+#OR curve of relative abundance
+library(goeveg)
+curve<- racurve(otu)
+relabun <-curve$rel.abund %>% data.frame
